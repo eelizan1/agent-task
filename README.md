@@ -1,4 +1,4 @@
-# agent-task
+# Agent Task Repository
 
 This repository contains a coding task for testing automated code generation and PR creation. 
 
